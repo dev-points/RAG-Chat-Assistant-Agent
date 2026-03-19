@@ -1,4 +1,4 @@
-📝 Description
+<h3><b>📝 Description</b></h3>
 
 This workflow builds a Retrieval-Augmented Generation (RAG) assistant that ingests a document from ClickUp, stores it in a Supabase vector database, and enables conversational querying through an AI agent.
 
